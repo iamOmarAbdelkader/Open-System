@@ -1,0 +1,1 @@
+<input type="time"   data-name="abandonment_time" data-employee="{{$id}}" value="{{$abandonment}}"  class="form-control abandonment observe">
